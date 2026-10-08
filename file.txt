@@ -1,3 +1,6 @@
 today we are exploring merge conflict topic.
 and in this i work on some version creations.
 This master file updated by another devloper then we just add and commit so master file will be updated. 
+this line written in a1 branch.
+this is final line of a1 branch.
+
